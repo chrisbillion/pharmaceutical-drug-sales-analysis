@@ -15,3 +15,6 @@ This initiative tends to cause a huge turn over in company's sales, thus resulti
 - R03-drugs for obstructive airway diseases
 - R06- antihistamine for systemic use
 
+### data used
+[pharma store monthly sales data](salesmonthly.csv)
+
