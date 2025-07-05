@@ -28,3 +28,8 @@ power BI
 - which day/days did N02BE brand had the higest and lowest sales?
 - drug brands that had the best, average and poorest performance?
 
+### processes involved
+- data from excel was first loaded into power query editor of power power BI for data cleaning
+- data was cleaned by converting data to a whole number and changing date format to a long date
+- the cleaned data was then loaded closed and applied to power BI for analysis and visualization.
+- 
