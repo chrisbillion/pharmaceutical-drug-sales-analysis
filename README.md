@@ -23,6 +23,8 @@ power BI
 
 ### questions(KPIs)
 - which are/is the highest and the lowest sold drug brand?
-- 
-2, 
+- what quater/quaters did N02BE brand had the highest and lowest sales?
+- what month/ months did N02BE brand had the highest and lowest sales?
+- which day/days did N02BE brand had the higest and lowest sales?
+- drug brands that had the best, average and poorest performance?
 
