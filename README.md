@@ -18,3 +18,11 @@ This initiative tends to cause a huge turn over in company's sales, thus resulti
 ### data used
 [pharma store sales monthly data](https://eu.docworkspace.com/d/sIIPBrZaTAvr9n8MG)
 
+### tools used
+power BI
+
+### questions(KPIs)
+- which are/is the highest and the lowest sold drug brand?
+- 
+2, 
+
