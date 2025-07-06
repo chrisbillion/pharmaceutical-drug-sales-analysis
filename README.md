@@ -33,3 +33,22 @@ power BI
 - data was cleaned by converting data to a whole number and changing date format to a long date
 - the cleaned data was then loaded closed and applied to power BI for analysis and visualization.
 - a dax function was perforemd to determine sales performance of each drug brand. Drug brands which had unit sold less than 100 were termed "poor performance". Drug brands which had unit sold equal to or greater than 100 but less than 160 were termed "Average performonce", while drug brands which had unit sold equal to or greater than 160 were termed "good performance".
+
+- ### dashboard
+
+
+
+
+
+### project insight
+- NO2BE brand consistently had more unit sold over the period of six years.
+- N02BE brand had higest turnover in sales
+- N02BE brand brought in more revenue than every other drug brand
+- N02BE had the best sales performce 
+N05C brand is seen has the least selling drug brand for a continuous period of six years.
+- N05C brand had a "poor sales" performance as it's overall sales performce for a six year period
+- drug brand such as M01AB, M01AE, N02BA, N05B, R03, R06, all had an overall "average sales performance" for a six year period.
+
+### recommendations/solutions
+
+- 
