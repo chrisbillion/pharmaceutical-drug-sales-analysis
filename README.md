@@ -51,4 +51,5 @@ N05C brand is seen has the least selling drug brand for a continuous period of s
 
 ### recommendations/solutions
 
-- 
+- about 75 percent of company's budjet should be focused on stocking N02BE brand as it appears to be the best selling drug brand
+- periods were N02BE drug brand had the best sales should be priotize for product availability
