@@ -16,7 +16,7 @@ This initiative tends to cause a huge turn over in company's sales, thus resulti
 - R06- antihistamine for systemic use
 
 ### data used
-[pharma store sales monthly data](https://eu.docworkspace.com/d/sIIPBrZaTAvr9n8MG)
+[pharma store sales monthly data](https://eu.docworkspace.com/d/sIJnBrZaTAsOzsckG?sa=601.1074)
 
 ### tools used
 power BI
