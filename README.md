@@ -34,7 +34,7 @@ power BI
 - the cleaned data was then loaded closed and applied to power BI for analysis and visualization.
 - a dax function was perforemd to determine sales performance of each drug brand. Drug brands which had unit sold less than 100 were termed "poor performance". Drug brands which had unit sold equal to or greater than 100 but less than 160 were termed "Average performonce", while drug brands which had unit sold equal to or greater than 160 were termed "good performance".
 
-- ### dashboard
+ ### dashboard
 
 
 
